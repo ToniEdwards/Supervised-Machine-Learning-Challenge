@@ -1,1 +1,13 @@
 # Supervised-Machine-Learning-Challenge
+![image](https://user-images.githubusercontent.com/90237519/155853842-d06638e3-8f1a-449c-bed7-bc1f839bf313.png)
+![image](https://user-images.githubusercontent.com/90237519/155853849-8fda6c00-72ef-40e3-bbbc-1bc944c79107.png)
+![image](https://user-images.githubusercontent.com/90237519/155853850-3198a578-af45-4587-a89d-9bd2c1cfb9f0.png)
+![image](https://user-images.githubusercontent.com/90237519/155853854-fa8758a9-db3d-4c03-9db2-893c4084a2bf.png)
+![image](https://user-images.githubusercontent.com/90237519/155853858-894c0a94-ec82-472b-9e45-10c5f878c654.png)
+![image](https://user-images.githubusercontent.com/90237519/155853859-6b2162bd-da80-4a92-9d9a-0f28e9c26680.png)
+![image](https://user-images.githubusercontent.com/90237519/155853864-0e0ddea3-a1f4-479d-96cd-63b4641158ec.png)
+![image](https://user-images.githubusercontent.com/90237519/155853866-bc75d08b-021c-451e-a220-3e75a00654c9.png)
+![image](https://user-images.githubusercontent.com/90237519/155853868-3edab3de-90ae-4ba9-9e9a-015994780391.png)
+![image](https://user-images.githubusercontent.com/90237519/155853870-90d2bca1-0fc5-420e-961e-6d2c2d92a644.png)
+![image](https://user-images.githubusercontent.com/90237519/155853875-8fb55893-34d8-45ff-95e7-488ac4e3b9a2.png)
+![image](https://user-images.githubusercontent.com/90237519/155853886-58e91789-c69c-4fee-b8c5-50435e4c5d62.png)
